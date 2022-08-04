@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-03T23:46:46.751236454-03:00"
+    description: A Helm chart for hello-rancher
+    digest: 05fc8b10b6656714bdc054476e1c2a55388df065eff18d8ce4e1e73b54775cd3
+    icon: https://miro.medium.com/max/687/1*TCa7ElewqPnLN8yM-ymzWw.png
+    name: charts
+    type: application
+    urls:
+    - https://github.com/mesakester/hello-rancher.git/charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-03T23:46:46.750574445-03:00"
